@@ -24,9 +24,29 @@
     </dict>
     <dict>
         <key>name</key>
-        <string>B</string>
+        <string>Á</string>
         <key>x</key>
         <real>40.0</real>
+        <key>y</key>
+        <real>2</real>
+        <key>width</key>
+        <real>34.0</real>
+        <key>height</key>
+        <real>53.0</real>
+        <key>xbearing</key>
+        <real>0.0</real>
+        <key>ybearing</key>
+        <real>-51.0</real>
+        <key>xadvance</key>
+        <real>36.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>B</string>
+        <key>x</key>
+        <real>78.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -46,7 +66,7 @@
         <key>name</key>
         <string>C</string>
         <key>x</key>
-        <real>74.0</real>
+        <real>112.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -66,7 +86,7 @@
         <key>name</key>
         <string>D</string>
         <key>x</key>
-        <real>106.0</real>
+        <real>144.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -86,7 +106,7 @@
         <key>name</key>
         <string>E</string>
         <key>x</key>
-        <real>144.0</real>
+        <real>182.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -104,9 +124,29 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>É</string>
+        <key>x</key>
+        <real>215.0</real>
+        <key>y</key>
+        <real>2</real>
+        <key>width</key>
+        <real>26.0</real>
+        <key>height</key>
+        <real>51.0</real>
+        <key>xbearing</key>
+        <real>3.0</real>
+        <key>ybearing</key>
+        <real>-50.0</real>
+        <key>xadvance</key>
+        <real>31.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>F</string>
         <key>x</key>
-        <real>177.0</real>
+        <real>248.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -126,7 +166,7 @@
         <key>name</key>
         <string>G</string>
         <key>x</key>
-        <real>207.0</real>
+        <real>278.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -146,7 +186,7 @@
         <key>name</key>
         <string>H</string>
         <key>x</key>
-        <real>246.0</real>
+        <real>317.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -166,7 +206,7 @@
         <key>name</key>
         <string>I</string>
         <key>x</key>
-        <real>283.0</real>
+        <real>354.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -184,9 +224,29 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>Í</string>
+        <key>x</key>
+        <real>381.0</real>
+        <key>y</key>
+        <real>2</real>
+        <key>width</key>
+        <real>20.0</real>
+        <key>height</key>
+        <real>51.0</real>
+        <key>xbearing</key>
+        <real>2.0</real>
+        <key>ybearing</key>
+        <real>-50.0</real>
+        <key>xadvance</key>
+        <real>25.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>J</string>
         <key>x</key>
-        <real>310.0</real>
+        <real>408.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -206,7 +266,7 @@
         <key>name</key>
         <string>K</string>
         <key>x</key>
-        <real>343.0</real>
+        <real>441.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -226,7 +286,7 @@
         <key>name</key>
         <string>L</string>
         <key>x</key>
-        <real>378.0</real>
+        <real>476.0</real>
         <key>y</key>
         <real>2</real>
         <key>width</key>
@@ -246,9 +306,9 @@
         <key>name</key>
         <string>M</string>
         <key>x</key>
-        <real>409.0</real>
-        <key>y</key>
         <real>2</real>
+        <key>y</key>
+        <real>57.0</real>
         <key>width</key>
         <real>41.0</real>
         <key>height</key>
@@ -266,9 +326,9 @@
         <key>name</key>
         <string>N</string>
         <key>x</key>
-        <real>453.0</real>
+        <real>46.0</real>
         <key>y</key>
-        <real>2</real>
+        <real>57.0</real>
         <key>width</key>
         <real>32.0</real>
         <key>height</key>
@@ -286,9 +346,9 @@
         <key>name</key>
         <string>Ñ</string>
         <key>x</key>
-        <real>2</real>
+        <real>85.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>31.0</real>
         <key>height</key>
@@ -306,9 +366,9 @@
         <key>name</key>
         <string>O</string>
         <key>x</key>
-        <real>41.0</real>
+        <real>124.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>35.0</real>
         <key>height</key>
@@ -324,11 +384,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>Ó</string>
+        <key>x</key>
+        <real>166.0</real>
+        <key>y</key>
+        <real>57.0</real>
+        <key>width</key>
+        <real>34.0</real>
+        <key>height</key>
+        <real>54.0</real>
+        <key>xbearing</key>
+        <real>2.0</real>
+        <key>ybearing</key>
+        <real>-52.0</real>
+        <key>xadvance</key>
+        <real>40.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>P</string>
         <key>x</key>
-        <real>83.0</real>
+        <real>208.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>29.0</real>
         <key>height</key>
@@ -346,9 +426,9 @@
         <key>name</key>
         <string>Q</string>
         <key>x</key>
-        <real>118.0</real>
+        <real>243.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>37.0</real>
         <key>height</key>
@@ -366,9 +446,9 @@
         <key>name</key>
         <string>R</string>
         <key>x</key>
-        <real>159.0</real>
+        <real>284.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>30.0</real>
         <key>height</key>
@@ -386,9 +466,9 @@
         <key>name</key>
         <string>S</string>
         <key>x</key>
-        <real>196.0</real>
+        <real>321.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>28.0</real>
         <key>height</key>
@@ -406,9 +486,9 @@
         <key>name</key>
         <string>T</string>
         <key>x</key>
-        <real>229.0</real>
+        <real>354.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>31.0</real>
         <key>height</key>
@@ -426,9 +506,9 @@
         <key>name</key>
         <string>U</string>
         <key>x</key>
-        <real>263.0</real>
+        <real>388.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>29.0</real>
         <key>height</key>
@@ -444,11 +524,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>Ú</string>
+        <key>x</key>
+        <real>427.0</real>
+        <key>y</key>
+        <real>57.0</real>
+        <key>width</key>
+        <real>29.0</real>
+        <key>height</key>
+        <real>50.0</real>
+        <key>xbearing</key>
+        <real>4.0</real>
+        <key>ybearing</key>
+        <real>-48.0</real>
+        <key>xadvance</key>
+        <real>37.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>V</string>
         <key>x</key>
-        <real>302.0</real>
+        <real>466.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>57.0</real>
         <key>width</key>
         <real>33.0</real>
         <key>height</key>
@@ -466,9 +566,9 @@
         <key>name</key>
         <string>W</string>
         <key>x</key>
-        <real>337.0</real>
+        <real>2</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>49.0</real>
         <key>height</key>
@@ -486,9 +586,9 @@
         <key>name</key>
         <string>X</string>
         <key>x</key>
-        <real>390.0</real>
+        <real>55.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>32.0</real>
         <key>height</key>
@@ -506,9 +606,9 @@
         <key>name</key>
         <string>Y</string>
         <key>x</key>
-        <real>426.0</real>
+        <real>91.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>31.0</real>
         <key>height</key>
@@ -526,9 +626,9 @@
         <key>name</key>
         <string>Z</string>
         <key>x</key>
-        <real>461.0</real>
+        <real>126.0</real>
         <key>y</key>
-        <real>56.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>33.0</real>
         <key>height</key>
@@ -546,9 +646,9 @@
         <key>name</key>
         <string>a</string>
         <key>x</key>
-        <real>2</real>
+        <real>165.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -564,11 +664,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>á</string>
+        <key>x</key>
+        <real>197.0</real>
+        <key>y</key>
+        <real>113.0</real>
+        <key>width</key>
+        <real>27.0</real>
+        <key>height</key>
+        <real>44.0</real>
+        <key>xbearing</key>
+        <real>2.0</real>
+        <key>ybearing</key>
+        <real>-41.0</real>
+        <key>xadvance</key>
+        <real>30.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>b</string>
         <key>x</key>
-        <real>34.0</real>
+        <real>229.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>25.0</real>
         <key>height</key>
@@ -586,9 +706,9 @@
         <key>name</key>
         <string>c</string>
         <key>x</key>
-        <real>67.0</real>
+        <real>262.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -606,9 +726,9 @@
         <key>name</key>
         <string>d</string>
         <key>x</key>
-        <real>95.0</real>
+        <real>290.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -626,9 +746,9 @@
         <key>name</key>
         <string>e</string>
         <key>x</key>
-        <real>129.0</real>
+        <real>324.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>25.0</real>
         <key>height</key>
@@ -644,11 +764,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>é</string>
+        <key>x</key>
+        <real>353.0</real>
+        <key>y</key>
+        <real>113.0</real>
+        <key>width</key>
+        <real>25.0</real>
+        <key>height</key>
+        <real>44.0</real>
+        <key>xbearing</key>
+        <real>3.0</real>
+        <key>ybearing</key>
+        <real>-42.0</real>
+        <key>xadvance</key>
+        <real>27.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>f</string>
         <key>x</key>
-        <real>158.0</real>
+        <real>382.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>22.0</real>
         <key>height</key>
@@ -666,9 +806,9 @@
         <key>name</key>
         <string>g</string>
         <key>x</key>
-        <real>185.0</real>
+        <real>409.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>26.0</real>
         <key>height</key>
@@ -686,9 +826,9 @@
         <key>name</key>
         <string>h</string>
         <key>x</key>
-        <real>217.0</real>
+        <real>441.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -706,9 +846,9 @@
         <key>name</key>
         <string>i</string>
         <key>x</key>
-        <real>250.0</real>
+        <real>474.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>113.0</real>
         <key>width</key>
         <real>9.0</real>
         <key>height</key>
@@ -724,11 +864,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>í</string>
+        <key>x</key>
+        <real>491.0</real>
+        <key>y</key>
+        <real>113.0</real>
+        <key>width</key>
+        <real>16.0</real>
+        <key>height</key>
+        <real>45.0</real>
+        <key>xbearing</key>
+        <real>0.0</real>
+        <key>ybearing</key>
+        <real>-43.0</real>
+        <key>xadvance</key>
+        <real>16.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>j</string>
         <key>x</key>
-        <real>267.0</real>
+        <real>2</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>18.0</real>
         <key>height</key>
@@ -746,9 +906,9 @@
         <key>name</key>
         <string>k</string>
         <key>x</key>
-        <real>291.0</real>
+        <real>26.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -766,9 +926,9 @@
         <key>name</key>
         <string>l</string>
         <key>x</key>
-        <real>323.0</real>
+        <real>58.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>9.0</real>
         <key>height</key>
@@ -786,9 +946,9 @@
         <key>name</key>
         <string>m</string>
         <key>x</key>
-        <real>342.0</real>
+        <real>77.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>35.0</real>
         <key>height</key>
@@ -806,9 +966,9 @@
         <key>name</key>
         <string>n</string>
         <key>x</key>
-        <real>385.0</real>
+        <real>120.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>23.0</real>
         <key>height</key>
@@ -826,9 +986,9 @@
         <key>name</key>
         <string>ñ</string>
         <key>x</key>
-        <real>416.0</real>
+        <real>151.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>26.0</real>
         <key>height</key>
@@ -846,9 +1006,9 @@
         <key>name</key>
         <string>o</string>
         <key>x</key>
-        <real>447.0</real>
+        <real>182.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>25.0</real>
         <key>height</key>
@@ -864,11 +1024,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>ó</string>
+        <key>x</key>
+        <real>209.0</real>
+        <key>y</key>
+        <real>169.0</real>
+        <key>width</key>
+        <real>25.0</real>
+        <key>height</key>
+        <real>45.0</real>
+        <key>xbearing</key>
+        <real>4.0</real>
+        <key>ybearing</key>
+        <real>-41.0</real>
+        <key>xadvance</key>
+        <real>31.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>p</string>
         <key>x</key>
-        <real>474.0</real>
+        <real>242.0</real>
         <key>y</key>
-        <real>110.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -886,9 +1066,9 @@
         <key>name</key>
         <string>q</string>
         <key>x</key>
-        <real>2</real>
+        <real>274.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>25.0</real>
         <key>height</key>
@@ -906,9 +1086,9 @@
         <key>name</key>
         <string>r</string>
         <key>x</key>
-        <real>33.0</real>
+        <real>305.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -926,9 +1106,9 @@
         <key>name</key>
         <string>s</string>
         <key>x</key>
-        <real>60.0</real>
+        <real>332.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>22.0</real>
         <key>height</key>
@@ -946,9 +1126,9 @@
         <key>name</key>
         <string>t</string>
         <key>x</key>
-        <real>85.0</real>
+        <real>357.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>21.0</real>
         <key>height</key>
@@ -966,9 +1146,9 @@
         <key>name</key>
         <string>u</string>
         <key>x</key>
-        <real>113.0</real>
+        <real>385.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -984,11 +1164,31 @@
     </dict>
     <dict>
         <key>name</key>
+        <string>ú</string>
+        <key>x</key>
+        <real>417.0</real>
+        <key>y</key>
+        <real>169.0</real>
+        <key>width</key>
+        <real>27.0</real>
+        <key>height</key>
+        <real>42.0</real>
+        <key>xbearing</key>
+        <real>5.0</real>
+        <key>ybearing</key>
+        <real>-40.0</real>
+        <key>xadvance</key>
+        <real>33.0</real>
+        <key>yadvance</key>
+        <real>0.0</real>
+    </dict>
+    <dict>
+        <key>name</key>
         <string>v</string>
         <key>x</key>
-        <real>145.0</real>
+        <real>452.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>169.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -1006,9 +1206,9 @@
         <key>name</key>
         <string>w</string>
         <key>x</key>
-        <real>171.0</real>
+        <real>2</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>37.0</real>
         <key>height</key>
@@ -1026,9 +1226,9 @@
         <key>name</key>
         <string>x</string>
         <key>x</key>
-        <real>210.0</real>
+        <real>41.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -1046,9 +1246,9 @@
         <key>name</key>
         <string>y</string>
         <key>x</key>
-        <real>241.0</real>
+        <real>72.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -1066,9 +1266,9 @@
         <key>name</key>
         <string>z</string>
         <key>x</key>
-        <real>271.0</real>
+        <real>102.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>28.0</real>
         <key>height</key>
@@ -1086,9 +1286,9 @@
         <key>name</key>
         <string>1</string>
         <key>x</key>
-        <real>303.0</real>
+        <real>134.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>17.0</real>
         <key>height</key>
@@ -1106,9 +1306,9 @@
         <key>name</key>
         <string>2</string>
         <key>x</key>
-        <real>327.0</real>
+        <real>158.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>26.0</real>
         <key>height</key>
@@ -1126,9 +1326,9 @@
         <key>name</key>
         <string>3</string>
         <key>x</key>
-        <real>362.0</real>
+        <real>193.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>23.0</real>
         <key>height</key>
@@ -1146,9 +1346,9 @@
         <key>name</key>
         <string>4</string>
         <key>x</key>
-        <real>395.0</real>
+        <real>226.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>28.0</real>
         <key>height</key>
@@ -1166,9 +1366,9 @@
         <key>name</key>
         <string>5</string>
         <key>x</key>
-        <real>430.0</real>
+        <real>261.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>25.0</real>
         <key>height</key>
@@ -1186,9 +1386,9 @@
         <key>name</key>
         <string>6</string>
         <key>x</key>
-        <real>465.0</real>
+        <real>296.0</real>
         <key>y</key>
-        <real>164.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>26.0</real>
         <key>height</key>
@@ -1206,9 +1406,9 @@
         <key>name</key>
         <string>7</string>
         <key>x</key>
-        <real>2</real>
+        <real>329.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>28.0</real>
         <key>height</key>
@@ -1226,9 +1426,9 @@
         <key>name</key>
         <string>8</string>
         <key>x</key>
-        <real>37.0</real>
+        <real>364.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>26.0</real>
         <key>height</key>
@@ -1246,9 +1446,9 @@
         <key>name</key>
         <string>9</string>
         <key>x</key>
-        <real>70.0</real>
+        <real>397.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>26.0</real>
         <key>height</key>
@@ -1266,9 +1466,9 @@
         <key>name</key>
         <string>0</string>
         <key>x</key>
-        <real>103.0</real>
+        <real>430.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>29.0</real>
         <key>height</key>
@@ -1286,9 +1486,9 @@
         <key>name</key>
         <string>"</string>
         <key>x</key>
-        <real>136.0</real>
+        <real>463.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>17.0</real>
         <key>height</key>
@@ -1306,9 +1506,9 @@
         <key>name</key>
         <string>!</string>
         <key>x</key>
-        <real>165.0</real>
+        <real>492.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>225.0</real>
         <key>width</key>
         <real>10.0</real>
         <key>height</key>
@@ -1326,9 +1526,9 @@
         <key>name</key>
         <string>'</string>
         <key>x</key>
-        <real>183.0</real>
+        <real>2</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>7.0</real>
         <key>height</key>
@@ -1346,9 +1546,9 @@
         <key>name</key>
         <string>?</string>
         <key>x</key>
-        <real>198.0</real>
+        <real>17.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>22.0</real>
         <key>height</key>
@@ -1366,9 +1566,9 @@
         <key>name</key>
         <string>.</string>
         <key>x</key>
-        <real>225.0</real>
+        <real>44.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>10.0</real>
         <key>height</key>
@@ -1386,9 +1586,9 @@
         <key>name</key>
         <string>,</string>
         <key>x</key>
-        <real>245.0</real>
+        <real>64.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>11.0</real>
         <key>height</key>
@@ -1406,9 +1606,9 @@
         <key>name</key>
         <string>;</string>
         <key>x</key>
-        <real>262.0</real>
+        <real>81.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>12.0</real>
         <key>height</key>
@@ -1426,9 +1626,9 @@
         <key>name</key>
         <string>:</string>
         <key>x</key>
-        <real>286.0</real>
+        <real>105.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>10.0</real>
         <key>height</key>
@@ -1446,9 +1646,9 @@
         <key>name</key>
         <string>(</string>
         <key>x</key>
-        <real>305.0</real>
+        <real>124.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>16.0</real>
         <key>height</key>
@@ -1466,9 +1666,9 @@
         <key>name</key>
         <string>)</string>
         <key>x</key>
-        <real>325.0</real>
+        <real>144.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>16.0</real>
         <key>height</key>
@@ -1486,9 +1686,9 @@
         <key>name</key>
         <string>[</string>
         <key>x</key>
-        <real>346.0</real>
+        <real>165.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>14.0</real>
         <key>height</key>
@@ -1506,9 +1706,9 @@
         <key>name</key>
         <string>]</string>
         <key>x</key>
-        <real>367.0</real>
+        <real>186.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>15.0</real>
         <key>height</key>
@@ -1526,9 +1726,9 @@
         <key>name</key>
         <string>{</string>
         <key>x</key>
-        <real>387.0</real>
+        <real>206.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>17.0</real>
         <key>height</key>
@@ -1546,9 +1746,9 @@
         <key>name</key>
         <string>}</string>
         <key>x</key>
-        <real>408.0</real>
+        <real>227.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>18.0</real>
         <key>height</key>
@@ -1566,9 +1766,9 @@
         <key>name</key>
         <string><</string>
         <key>x</key>
-        <real>430.0</real>
+        <real>249.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>21.0</real>
         <key>height</key>
@@ -1586,9 +1786,9 @@
         <key>name</key>
         <string>></string>
         <key>x</key>
-        <real>455.0</real>
+        <real>274.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>21.0</real>
         <key>height</key>
@@ -1606,9 +1806,9 @@
         <key>name</key>
         <string>|</string>
         <key>x</key>
-        <real>481.0</real>
+        <real>300.0</real>
         <key>y</key>
-        <real>218.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>8.0</real>
         <key>height</key>
@@ -1626,9 +1826,9 @@
         <key>name</key>
         <string>/</string>
         <key>x</key>
-        <real>2</real>
+        <real>318.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -1646,9 +1846,9 @@
         <key>name</key>
         <string>@</string>
         <key>x</key>
-        <real>33.0</real>
+        <real>349.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>39.0</real>
         <key>height</key>
@@ -1666,9 +1866,9 @@
         <key>name</key>
         <string>\</string>
         <key>x</key>
-        <real>78.0</real>
+        <real>394.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>25.0</real>
         <key>height</key>
@@ -1686,9 +1886,9 @@
         <key>name</key>
         <string>^</string>
         <key>x</key>
-        <real>108.0</real>
+        <real>424.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>21.0</real>
         <key>height</key>
@@ -1706,9 +1906,9 @@
         <key>name</key>
         <string>$</string>
         <key>x</key>
-        <real>136.0</real>
+        <real>452.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>281.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -1726,9 +1926,9 @@
         <key>name</key>
         <string>-</string>
         <key>x</key>
-        <real>172.0</real>
+        <real>2</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>22.0</real>
         <key>height</key>
@@ -1746,9 +1946,9 @@
         <key>name</key>
         <string>%</string>
         <key>x</key>
-        <real>202.0</real>
+        <real>32.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>40.0</real>
         <key>height</key>
@@ -1766,9 +1966,9 @@
         <key>name</key>
         <string>+</string>
         <key>x</key>
-        <real>250.0</real>
+        <real>80.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>27.0</real>
         <key>height</key>
@@ -1786,9 +1986,9 @@
         <key>name</key>
         <string>=</string>
         <key>x</key>
-        <real>284.0</real>
+        <real>114.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
@@ -1806,9 +2006,9 @@
         <key>name</key>
         <string>#</string>
         <key>x</key>
-        <real>315.0</real>
+        <real>145.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>40.0</real>
         <key>height</key>
@@ -1826,9 +2026,9 @@
         <key>name</key>
         <string>_</string>
         <key>x</key>
-        <real>363.0</real>
+        <real>193.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>37.0</real>
         <key>height</key>
@@ -1846,9 +2046,9 @@
         <key>name</key>
         <string>&</string>
         <key>x</key>
-        <real>402.0</real>
+        <real>232.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>35.0</real>
         <key>height</key>
@@ -1866,9 +2066,9 @@
         <key>name</key>
         <string>~</string>
         <key>x</key>
-        <real>442.0</real>
-        <key>y</key>
         <real>272.0</real>
+        <key>y</key>
+        <real>337.0</real>
         <key>width</key>
         <real>29.0</real>
         <key>height</key>
@@ -1886,9 +2086,9 @@
         <key>name</key>
         <string>*</string>
         <key>x</key>
-        <real>478.0</real>
+        <real>308.0</real>
         <key>y</key>
-        <real>272.0</real>
+        <real>337.0</real>
         <key>width</key>
         <real>24.0</real>
         <key>height</key>
