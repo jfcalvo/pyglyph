@@ -5,7 +5,7 @@
 	% for character in characters:
     <dict>
         <key>name</key>
-        <string>${character['name']}</string>
+        <string>${character['name'] | x}</string>
         <key>x</key>
         <real>${character['x']}</real>
         <key>y</key>
