@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
+    <key>A</key>
     <dict>
-        <key>name</key>
-        <string>A</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -20,11 +19,10 @@
         <key>xadvance</key>
         <real>36.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Á</key>
     <dict>
-        <key>name</key>
-        <string>Á</string>
         <key>x</key>
         <real>40.0</real>
         <key>y</key>
@@ -40,11 +38,10 @@
         <key>xadvance</key>
         <real>36.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>B</key>
     <dict>
-        <key>name</key>
-        <string>B</string>
         <key>x</key>
         <real>78.0</real>
         <key>y</key>
@@ -60,11 +57,10 @@
         <key>xadvance</key>
         <real>32.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>C</key>
     <dict>
-        <key>name</key>
-        <string>C</string>
         <key>x</key>
         <real>112.0</real>
         <key>y</key>
@@ -80,11 +76,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>D</key>
     <dict>
-        <key>name</key>
-        <string>D</string>
         <key>x</key>
         <real>144.0</real>
         <key>y</key>
@@ -100,11 +95,10 @@
         <key>xadvance</key>
         <real>36.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>E</key>
     <dict>
-        <key>name</key>
-        <string>E</string>
         <key>x</key>
         <real>182.0</real>
         <key>y</key>
@@ -120,11 +114,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>É</key>
     <dict>
-        <key>name</key>
-        <string>É</string>
         <key>x</key>
         <real>215.0</real>
         <key>y</key>
@@ -140,11 +133,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>F</key>
     <dict>
-        <key>name</key>
-        <string>F</string>
         <key>x</key>
         <real>248.0</real>
         <key>y</key>
@@ -160,11 +152,10 @@
         <key>xadvance</key>
         <real>28.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>G</key>
     <dict>
-        <key>name</key>
-        <string>G</string>
         <key>x</key>
         <real>278.0</real>
         <key>y</key>
@@ -180,11 +171,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>H</key>
     <dict>
-        <key>name</key>
-        <string>H</string>
         <key>x</key>
         <real>317.0</real>
         <key>y</key>
@@ -200,11 +190,10 @@
         <key>xadvance</key>
         <real>35.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>I</key>
     <dict>
-        <key>name</key>
-        <string>I</string>
         <key>x</key>
         <real>354.0</real>
         <key>y</key>
@@ -220,11 +209,10 @@
         <key>xadvance</key>
         <real>25.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Í</key>
     <dict>
-        <key>name</key>
-        <string>Í</string>
         <key>x</key>
         <real>381.0</real>
         <key>y</key>
@@ -240,11 +228,10 @@
         <key>xadvance</key>
         <real>25.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>J</key>
     <dict>
-        <key>name</key>
-        <string>J</string>
         <key>x</key>
         <real>408.0</real>
         <key>y</key>
@@ -260,11 +247,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>K</key>
     <dict>
-        <key>name</key>
-        <string>K</string>
         <key>x</key>
         <real>441.0</real>
         <key>y</key>
@@ -280,11 +266,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>L</key>
     <dict>
-        <key>name</key>
-        <string>L</string>
         <key>x</key>
         <real>476.0</real>
         <key>y</key>
@@ -300,11 +285,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>M</key>
     <dict>
-        <key>name</key>
-        <string>M</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -320,11 +304,10 @@
         <key>xadvance</key>
         <real>42.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>N</key>
     <dict>
-        <key>name</key>
-        <string>N</string>
         <key>x</key>
         <real>46.0</real>
         <key>y</key>
@@ -340,11 +323,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Ñ</key>
     <dict>
-        <key>name</key>
-        <string>Ñ</string>
         <key>x</key>
         <real>85.0</real>
         <key>y</key>
@@ -360,11 +342,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>O</key>
     <dict>
-        <key>name</key>
-        <string>O</string>
         <key>x</key>
         <real>124.0</real>
         <key>y</key>
@@ -380,11 +361,10 @@
         <key>xadvance</key>
         <real>40.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Ó</key>
     <dict>
-        <key>name</key>
-        <string>Ó</string>
         <key>x</key>
         <real>166.0</real>
         <key>y</key>
@@ -400,11 +380,10 @@
         <key>xadvance</key>
         <real>40.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>P</key>
     <dict>
-        <key>name</key>
-        <string>P</string>
         <key>x</key>
         <real>208.0</real>
         <key>y</key>
@@ -420,11 +399,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Q</key>
     <dict>
-        <key>name</key>
-        <string>Q</string>
         <key>x</key>
         <real>243.0</real>
         <key>y</key>
@@ -440,11 +418,10 @@
         <key>xadvance</key>
         <real>39.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>R</key>
     <dict>
-        <key>name</key>
-        <string>R</string>
         <key>x</key>
         <real>284.0</real>
         <key>y</key>
@@ -460,11 +437,10 @@
         <key>xadvance</key>
         <real>35.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>S</key>
     <dict>
-        <key>name</key>
-        <string>S</string>
         <key>x</key>
         <real>321.0</real>
         <key>y</key>
@@ -480,11 +456,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>T</key>
     <dict>
-        <key>name</key>
-        <string>T</string>
         <key>x</key>
         <real>354.0</real>
         <key>y</key>
@@ -500,11 +475,10 @@
         <key>xadvance</key>
         <real>32.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>U</key>
     <dict>
-        <key>name</key>
-        <string>U</string>
         <key>x</key>
         <real>388.0</real>
         <key>y</key>
@@ -520,11 +494,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Ú</key>
     <dict>
-        <key>name</key>
-        <string>Ú</string>
         <key>x</key>
         <real>427.0</real>
         <key>y</key>
@@ -540,11 +513,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>V</key>
     <dict>
-        <key>name</key>
-        <string>V</string>
         <key>x</key>
         <real>466.0</real>
         <key>y</key>
@@ -560,11 +532,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>W</key>
     <dict>
-        <key>name</key>
-        <string>W</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -580,11 +551,10 @@
         <key>xadvance</key>
         <real>51.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>X</key>
     <dict>
-        <key>name</key>
-        <string>X</string>
         <key>x</key>
         <real>55.0</real>
         <key>y</key>
@@ -600,11 +570,10 @@
         <key>xadvance</key>
         <real>34.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Y</key>
     <dict>
-        <key>name</key>
-        <string>Y</string>
         <key>x</key>
         <real>91.0</real>
         <key>y</key>
@@ -620,11 +589,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>Z</key>
     <dict>
-        <key>name</key>
-        <string>Z</string>
         <key>x</key>
         <real>126.0</real>
         <key>y</key>
@@ -640,11 +608,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>a</key>
     <dict>
-        <key>name</key>
-        <string>a</string>
         <key>x</key>
         <real>165.0</real>
         <key>y</key>
@@ -660,11 +627,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>á</key>
     <dict>
-        <key>name</key>
-        <string>á</string>
         <key>x</key>
         <real>197.0</real>
         <key>y</key>
@@ -680,11 +646,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>b</key>
     <dict>
-        <key>name</key>
-        <string>b</string>
         <key>x</key>
         <real>229.0</real>
         <key>y</key>
@@ -700,11 +665,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>c</key>
     <dict>
-        <key>name</key>
-        <string>c</string>
         <key>x</key>
         <real>262.0</real>
         <key>y</key>
@@ -720,11 +684,10 @@
         <key>xadvance</key>
         <real>26.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>d</key>
     <dict>
-        <key>name</key>
-        <string>d</string>
         <key>x</key>
         <real>290.0</real>
         <key>y</key>
@@ -740,11 +703,10 @@
         <key>xadvance</key>
         <real>32.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>e</key>
     <dict>
-        <key>name</key>
-        <string>e</string>
         <key>x</key>
         <real>324.0</real>
         <key>y</key>
@@ -760,11 +722,10 @@
         <key>xadvance</key>
         <real>27.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>é</key>
     <dict>
-        <key>name</key>
-        <string>é</string>
         <key>x</key>
         <real>353.0</real>
         <key>y</key>
@@ -780,11 +741,10 @@
         <key>xadvance</key>
         <real>27.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>f</key>
     <dict>
-        <key>name</key>
-        <string>f</string>
         <key>x</key>
         <real>382.0</real>
         <key>y</key>
@@ -800,11 +760,10 @@
         <key>xadvance</key>
         <real>25.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>g</key>
     <dict>
-        <key>name</key>
-        <string>g</string>
         <key>x</key>
         <real>409.0</real>
         <key>y</key>
@@ -820,11 +779,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>h</key>
     <dict>
-        <key>name</key>
-        <string>h</string>
         <key>x</key>
         <real>441.0</real>
         <key>y</key>
@@ -840,11 +798,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>i</key>
     <dict>
-        <key>name</key>
-        <string>i</string>
         <key>x</key>
         <real>474.0</real>
         <key>y</key>
@@ -860,11 +817,10 @@
         <key>xadvance</key>
         <real>15.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>í</key>
     <dict>
-        <key>name</key>
-        <string>í</string>
         <key>x</key>
         <real>491.0</real>
         <key>y</key>
@@ -880,11 +836,10 @@
         <key>xadvance</key>
         <real>16.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>j</key>
     <dict>
-        <key>name</key>
-        <string>j</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -900,11 +855,10 @@
         <key>xadvance</key>
         <real>22.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>k</key>
     <dict>
-        <key>name</key>
-        <string>k</string>
         <key>x</key>
         <real>26.0</real>
         <key>y</key>
@@ -920,11 +874,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>l</key>
     <dict>
-        <key>name</key>
-        <string>l</string>
         <key>x</key>
         <real>58.0</real>
         <key>y</key>
@@ -940,11 +893,10 @@
         <key>xadvance</key>
         <real>17.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>m</key>
     <dict>
-        <key>name</key>
-        <string>m</string>
         <key>x</key>
         <real>77.0</real>
         <key>y</key>
@@ -960,11 +912,10 @@
         <key>xadvance</key>
         <real>41.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>n</key>
     <dict>
-        <key>name</key>
-        <string>n</string>
         <key>x</key>
         <real>120.0</real>
         <key>y</key>
@@ -980,11 +931,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>ñ</key>
     <dict>
-        <key>name</key>
-        <string>ñ</string>
         <key>x</key>
         <real>151.0</real>
         <key>y</key>
@@ -1000,11 +950,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>o</key>
     <dict>
-        <key>name</key>
-        <string>o</string>
         <key>x</key>
         <real>182.0</real>
         <key>y</key>
@@ -1020,11 +969,10 @@
         <key>xadvance</key>
         <real>25.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>ó</key>
     <dict>
-        <key>name</key>
-        <string>ó</string>
         <key>x</key>
         <real>209.0</real>
         <key>y</key>
@@ -1040,11 +988,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>p</key>
     <dict>
-        <key>name</key>
-        <string>p</string>
         <key>x</key>
         <real>242.0</real>
         <key>y</key>
@@ -1060,11 +1007,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>q</key>
     <dict>
-        <key>name</key>
-        <string>q</string>
         <key>x</key>
         <real>274.0</real>
         <key>y</key>
@@ -1080,11 +1026,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>r</key>
     <dict>
-        <key>name</key>
-        <string>r</string>
         <key>x</key>
         <real>305.0</real>
         <key>y</key>
@@ -1100,11 +1045,10 @@
         <key>xadvance</key>
         <real>25.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>s</key>
     <dict>
-        <key>name</key>
-        <string>s</string>
         <key>x</key>
         <real>332.0</real>
         <key>y</key>
@@ -1120,11 +1064,10 @@
         <key>xadvance</key>
         <real>23.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>t</key>
     <dict>
-        <key>name</key>
-        <string>t</string>
         <key>x</key>
         <real>357.0</real>
         <key>y</key>
@@ -1140,11 +1083,10 @@
         <key>xadvance</key>
         <real>26.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>u</key>
     <dict>
-        <key>name</key>
-        <string>u</string>
         <key>x</key>
         <real>385.0</real>
         <key>y</key>
@@ -1160,11 +1102,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>ú</key>
     <dict>
-        <key>name</key>
-        <string>ú</string>
         <key>x</key>
         <real>417.0</real>
         <key>y</key>
@@ -1180,11 +1121,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>v</key>
     <dict>
-        <key>name</key>
-        <string>v</string>
         <key>x</key>
         <real>452.0</real>
         <key>y</key>
@@ -1200,11 +1140,10 @@
         <key>xadvance</key>
         <real>24.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>w</key>
     <dict>
-        <key>name</key>
-        <string>w</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -1220,11 +1159,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>x</key>
     <dict>
-        <key>name</key>
-        <string>x</string>
         <key>x</key>
         <real>41.0</real>
         <key>y</key>
@@ -1240,11 +1178,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>y</key>
     <dict>
-        <key>name</key>
-        <string>y</string>
         <key>x</key>
         <real>72.0</real>
         <key>y</key>
@@ -1260,11 +1197,10 @@
         <key>xadvance</key>
         <real>28.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>z</key>
     <dict>
-        <key>name</key>
-        <string>z</string>
         <key>x</key>
         <real>102.0</real>
         <key>y</key>
@@ -1280,11 +1216,10 @@
         <key>xadvance</key>
         <real>30.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>1</key>
     <dict>
-        <key>name</key>
-        <string>1</string>
         <key>x</key>
         <real>134.0</real>
         <key>y</key>
@@ -1300,11 +1235,10 @@
         <key>xadvance</key>
         <real>22.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>2</key>
     <dict>
-        <key>name</key>
-        <string>2</string>
         <key>x</key>
         <real>158.0</real>
         <key>y</key>
@@ -1320,11 +1254,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>3</key>
     <dict>
-        <key>name</key>
-        <string>3</string>
         <key>x</key>
         <real>193.0</real>
         <key>y</key>
@@ -1340,11 +1273,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>4</key>
     <dict>
-        <key>name</key>
-        <string>4</string>
         <key>x</key>
         <real>226.0</real>
         <key>y</key>
@@ -1360,11 +1292,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>5</key>
     <dict>
-        <key>name</key>
-        <string>5</string>
         <key>x</key>
         <real>261.0</real>
         <key>y</key>
@@ -1380,11 +1311,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>6</key>
     <dict>
-        <key>name</key>
-        <string>6</string>
         <key>x</key>
         <real>296.0</real>
         <key>y</key>
@@ -1400,11 +1330,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>7</key>
     <dict>
-        <key>name</key>
-        <string>7</string>
         <key>x</key>
         <real>329.0</real>
         <key>y</key>
@@ -1420,11 +1349,10 @@
         <key>xadvance</key>
         <real>33.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>8</key>
     <dict>
-        <key>name</key>
-        <string>8</string>
         <key>x</key>
         <real>364.0</real>
         <key>y</key>
@@ -1440,11 +1368,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>9</key>
     <dict>
-        <key>name</key>
-        <string>9</string>
         <key>x</key>
         <real>397.0</real>
         <key>y</key>
@@ -1460,11 +1387,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>0</key>
     <dict>
-        <key>name</key>
-        <string>0</string>
         <key>x</key>
         <real>430.0</real>
         <key>y</key>
@@ -1480,11 +1406,10 @@
         <key>xadvance</key>
         <real>31.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>&#34;</key>
     <dict>
-        <key>name</key>
-        <string>"</string>
         <key>x</key>
         <real>463.0</real>
         <key>y</key>
@@ -1500,11 +1425,10 @@
         <key>xadvance</key>
         <real>27.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>!</key>
     <dict>
-        <key>name</key>
-        <string>!</string>
         <key>x</key>
         <real>492.0</real>
         <key>y</key>
@@ -1520,11 +1444,10 @@
         <key>xadvance</key>
         <real>16.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>&#39;</key>
     <dict>
-        <key>name</key>
-        <string>'</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -1540,11 +1463,10 @@
         <key>xadvance</key>
         <real>13.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>?</key>
     <dict>
-        <key>name</key>
-        <string>?</string>
         <key>x</key>
         <real>17.0</real>
         <key>y</key>
@@ -1560,11 +1482,10 @@
         <key>xadvance</key>
         <real>25.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>.</key>
     <dict>
-        <key>name</key>
-        <string>.</string>
         <key>x</key>
         <real>44.0</real>
         <key>y</key>
@@ -1580,11 +1501,10 @@
         <key>xadvance</key>
         <real>18.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>,</key>
     <dict>
-        <key>name</key>
-        <string>,</string>
         <key>x</key>
         <real>64.0</real>
         <key>y</key>
@@ -1600,11 +1520,10 @@
         <key>xadvance</key>
         <real>15.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>;</key>
     <dict>
-        <key>name</key>
-        <string>;</string>
         <key>x</key>
         <real>81.0</real>
         <key>y</key>
@@ -1620,11 +1539,10 @@
         <key>xadvance</key>
         <real>22.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>:</key>
     <dict>
-        <key>name</key>
-        <string>:</string>
         <key>x</key>
         <real>105.0</real>
         <key>y</key>
@@ -1640,11 +1558,10 @@
         <key>xadvance</key>
         <real>17.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>(</key>
     <dict>
-        <key>name</key>
-        <string>(</string>
         <key>x</key>
         <real>124.0</real>
         <key>y</key>
@@ -1660,11 +1577,10 @@
         <key>xadvance</key>
         <real>18.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>)</key>
     <dict>
-        <key>name</key>
-        <string>)</string>
         <key>x</key>
         <real>144.0</real>
         <key>y</key>
@@ -1680,11 +1596,10 @@
         <key>xadvance</key>
         <real>19.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>[</key>
     <dict>
-        <key>name</key>
-        <string>[</string>
         <key>x</key>
         <real>165.0</real>
         <key>y</key>
@@ -1700,11 +1615,10 @@
         <key>xadvance</key>
         <real>19.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>]</key>
     <dict>
-        <key>name</key>
-        <string>]</string>
         <key>x</key>
         <real>186.0</real>
         <key>y</key>
@@ -1720,11 +1634,10 @@
         <key>xadvance</key>
         <real>18.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>{</key>
     <dict>
-        <key>name</key>
-        <string>{</string>
         <key>x</key>
         <real>206.0</real>
         <key>y</key>
@@ -1740,11 +1653,10 @@
         <key>xadvance</key>
         <real>19.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>}</key>
     <dict>
-        <key>name</key>
-        <string>}</string>
         <key>x</key>
         <real>227.0</real>
         <key>y</key>
@@ -1760,11 +1672,10 @@
         <key>xadvance</key>
         <real>20.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>&lt;</key>
     <dict>
-        <key>name</key>
-        <string><</string>
         <key>x</key>
         <real>249.0</real>
         <key>y</key>
@@ -1780,11 +1691,10 @@
         <key>xadvance</key>
         <real>23.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>&gt;</key>
     <dict>
-        <key>name</key>
-        <string>></string>
         <key>x</key>
         <real>274.0</real>
         <key>y</key>
@@ -1800,11 +1710,10 @@
         <key>xadvance</key>
         <real>24.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>|</key>
     <dict>
-        <key>name</key>
-        <string>|</string>
         <key>x</key>
         <real>300.0</real>
         <key>y</key>
@@ -1820,11 +1729,10 @@
         <key>xadvance</key>
         <real>16.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>/</key>
     <dict>
-        <key>name</key>
-        <string>/</string>
         <key>x</key>
         <real>318.0</real>
         <key>y</key>
@@ -1840,11 +1748,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>@</key>
     <dict>
-        <key>name</key>
-        <string>@</string>
         <key>x</key>
         <real>349.0</real>
         <key>y</key>
@@ -1860,11 +1767,10 @@
         <key>xadvance</key>
         <real>43.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>\</key>
     <dict>
-        <key>name</key>
-        <string>\</string>
         <key>x</key>
         <real>394.0</real>
         <key>y</key>
@@ -1880,11 +1786,10 @@
         <key>xadvance</key>
         <real>28.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>^</key>
     <dict>
-        <key>name</key>
-        <string>^</string>
         <key>x</key>
         <real>424.0</real>
         <key>y</key>
@@ -1900,11 +1805,10 @@
         <key>xadvance</key>
         <real>26.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>$</key>
     <dict>
-        <key>name</key>
-        <string>$</string>
         <key>x</key>
         <real>452.0</real>
         <key>y</key>
@@ -1920,11 +1824,10 @@
         <key>xadvance</key>
         <real>34.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>-</key>
     <dict>
-        <key>name</key>
-        <string>-</string>
         <key>x</key>
         <real>2</real>
         <key>y</key>
@@ -1940,11 +1843,10 @@
         <key>xadvance</key>
         <real>28.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>%</key>
     <dict>
-        <key>name</key>
-        <string>%</string>
         <key>x</key>
         <real>32.0</real>
         <key>y</key>
@@ -1960,11 +1862,10 @@
         <key>xadvance</key>
         <real>46.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>+</key>
     <dict>
-        <key>name</key>
-        <string>+</string>
         <key>x</key>
         <real>80.0</real>
         <key>y</key>
@@ -1980,11 +1881,10 @@
         <key>xadvance</key>
         <real>32.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>=</key>
     <dict>
-        <key>name</key>
-        <string>=</string>
         <key>x</key>
         <real>114.0</real>
         <key>y</key>
@@ -2000,11 +1900,10 @@
         <key>xadvance</key>
         <real>29.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>#</key>
     <dict>
-        <key>name</key>
-        <string>#</string>
         <key>x</key>
         <real>145.0</real>
         <key>y</key>
@@ -2020,11 +1919,10 @@
         <key>xadvance</key>
         <real>46.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>_</key>
     <dict>
-        <key>name</key>
-        <string>_</string>
         <key>x</key>
         <real>193.0</real>
         <key>y</key>
@@ -2040,11 +1938,10 @@
         <key>xadvance</key>
         <real>37.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>&amp;</key>
     <dict>
-        <key>name</key>
-        <string>&</string>
         <key>x</key>
         <real>232.0</real>
         <key>y</key>
@@ -2060,11 +1957,10 @@
         <key>xadvance</key>
         <real>38.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>~</key>
     <dict>
-        <key>name</key>
-        <string>~</string>
         <key>x</key>
         <real>272.0</real>
         <key>y</key>
@@ -2080,11 +1976,10 @@
         <key>xadvance</key>
         <real>34.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
+    <key>*</key>
     <dict>
-        <key>name</key>
-        <string>*</string>
         <key>x</key>
         <real>308.0</real>
         <key>y</key>
@@ -2100,7 +1995,7 @@
         <key>xadvance</key>
         <real>27.0</real>
         <key>yadvance</key>
-        <real>0.0</real>
+        <real>0.0</real>    
     </dict>
-</array>
+</dict>
 </plist>
