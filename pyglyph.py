@@ -35,17 +35,20 @@ class GlyphCreator(object):
         # Saving the surface to a png file
         surface.write_to_png(self.texture_filename)
         
-    def __save_info(self, glyphs):
+    def __save_info(self, font_metadata, glyphs):
         template = Template(filename=self.template_filename, output_encoding='utf-8')
         
         info_file = open(self.info_filename, 'w')
-        info_file.write(template.render(characters=glyphs))
+        info_file.write(template.render(metadata=font_metadata, characters=glyphs))
         info_file.close()
     
     def run(self):
         surface = self.__create_cairo_surface()      
         cr = self.__create_cairo_context(surface)
       
+        # Creating Metadata about the font to save in the template
+        font_metadata = dict(fontname=self.font_name, fontsize=self.font_size, width=self.texture_size[0], height=self.texture_size[1], padding=self.padding[0])
+
         glyphs = list()
         max_height = 0
         x, y = self.padding
@@ -83,7 +86,7 @@ class GlyphCreator(object):
         self.__save_surface(surface)
         
         # Render template to info plist file
-        self.__save_info(glyphs)
+        self.__save_info(font_metadata, glyphs)
 
 
 def main():
