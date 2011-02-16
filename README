@@ -3,12 +3,14 @@ Pyglyph
 
 Pyglyph is a font texture generator, useful to create textures with a character list using a font available in the system. Pyglyph generates a png file with the texture and a file with information about the characters in the texture, the info file can be customized with templates (using Mako as template engine), by now we generate a plist XML file useful to load the texture with Cocoa.
 
+Pyglyph is based in the code example described at iPhone3D Programming book by Philip Rideout.
+
 Dependencies:
 
-	Python 2.6.1
-	Mako http://www.makotemplates.org/
+	Pyglyph has been testes successfully with Python 2.6.1.
+	Pyglyph uses the awesome Mako templates package http://www.makotemplates.org/
 		Install: sudo easy_install mako
-	Pycairo http://cairographics.org/pycairo:
+	Pyglyph uses Pycairo to render the fonts http://cairographics.org/pycairo
 		Install: sudo easy_install pycairo
 		
 Help:
