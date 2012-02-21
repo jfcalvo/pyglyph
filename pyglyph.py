@@ -28,7 +28,7 @@ class GlyphCreator(object):
         cairo_context = cairo.Context(surface)
         cairo_context.select_font_face(self.font_name, cairo.FONT_SLANT_NORMAL, cairo.FONT_WEIGHT_NORMAL)
         cairo_context.set_font_size(self.font_size)
-        cairo_context.set_source_rgb(self.font_color[0], self.font_color[1], self.font_color[2])
+        cairo_context.set_source_rgb(self.font_color[0] / 255.0, self.font_color[1] / 255.0, self.font_color[2] / 255.0)
         return cairo_context
                                                    
     def __save_surface(self, surface):
